@@ -30,3 +30,7 @@ Para sostener el mantenimiento y operación del sistema de control de automóvil
 Con la finalidad de promover el uso adecuado del automóvil, un propietario puede recibir puntos negativos. Si el propietario acumula 20 o más puntos, perderá su derecho a contar con licencia. Se requiere almacenar la fecha en la que se registran los puntos negativos, descripción de la falta, cantidad de puntos negativos asignados y un documento PDF que contiene el detalle y la evidencia de la(s) faltas cometidas.
 
 Finalmente, algunos automóviles pueden ser usados como autos de carga y particulares a la vez. Por ejemplo, una camioneta adaptada con un compartimiento trasero. Solo para esta combinación, el sistema permite que el mismo automóvil tenga ambos roles.
+
+## Diseños
+Diseño físico de la bd
+![diseño-fisico-crows-foot](https://user-images.githubusercontent.com/68760775/129112515-e8ce8ab6-f648-4c3f-a88e-d6d075e08ea3.jpg)
