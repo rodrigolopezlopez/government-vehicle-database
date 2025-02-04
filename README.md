@@ -1,5 +1,3 @@
-
-📌 Project Name: car-control-online
 📝 Summary:
 A government vehicle management system developed using Oracle Database to track vehicle registration, licensing, tax payments, emissions, and ownership history. It includes automatic compliance monitoring, real-time emissions tracking, and penalty enforcement for violations.
 
